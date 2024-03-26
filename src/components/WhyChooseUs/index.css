@@ -1,0 +1,45 @@
+.whychooseus-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.whychooseus-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.whychooseus-options {
+  display: flex;
+}
+
+.whychooseus-option {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 220px;
+  background-color: #c8d9e3;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.whychooseus-option-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: darkblue;
+}
+
+.whychooseus-option-description {
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.icon {
+  color: darkblue;
+  height: 30px;
+  width: 30px;
+}

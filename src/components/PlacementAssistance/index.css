@@ -1,0 +1,28 @@
+.placement-container {
+  background-color: #e3c8e2;
+  padding: 30px;
+  margin: 30px;
+}
+
+.placement-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+}
+
+.placement-assistances {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.placement-assistance-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.placement-assistance-para {
+  font-family: 'Roboto';
+  font-size: 17px;
+}

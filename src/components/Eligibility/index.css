@@ -1,0 +1,30 @@
+.eligibility-conditions {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 50vh;
+  background-size: cover;
+}
+
+.eligibility-condition {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 180px;
+  border: 2px solid darkblue;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.eligibility-condition-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.eligibility-condition-para {
+  font-family: 'Roboto';
+  font-size: 14px;
+}

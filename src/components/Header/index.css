@@ -1,0 +1,35 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: darkblue;
+  height: 20vh;
+}
+
+.indigolearn-logo {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.options-in-header {
+  display: flex;
+  list-style-type: none;
+}
+
+.each-option {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 17px;
+  margin: 10px;
+}
+
+.login-signup-button {
+  background-color: #ffffff;
+  color: darkblue;
+  border-width: 0px;
+  border-radius: 8px;
+  padding: 8px;
+}

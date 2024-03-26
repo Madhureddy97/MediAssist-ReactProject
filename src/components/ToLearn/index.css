@@ -1,0 +1,35 @@
+.tolearn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tolearn-skill {
+  height: 300px;
+  width: 250px;
+  margin: 20px;
+}
+
+.level-top {
+  height: 25%;
+  background-color: darkblue;
+  color: #ffffff;
+  padding: 15px;
+}
+
+.level-top-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.level-bottom {
+  height: 25%;
+  background-color: darkblue;
+  color: #ffffff;
+  padding: 15px;
+}
+
+.level-bottom-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
